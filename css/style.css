@@ -92,7 +92,7 @@ a:hover {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-position: center center;
+  background-position: center bottom;
 }
 
 .overlay-mf {
